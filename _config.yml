@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   2FA Logo Vectors SVG, PDF and PNG. The Logos can download in vector format like SVG, PDF, and PNG.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://submodul.github.io/page/" # the base hostname & protocol for your site, e.g. 
+url: "" # the base hostname & protocol for your site, e.g. 
 twitter_username: jekyllrb
 github_username:  jekyll
 
