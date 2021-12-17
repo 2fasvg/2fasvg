@@ -1,0 +1,3 @@
+- name: Sendy
+  url: sendy.co
+  2fa: null

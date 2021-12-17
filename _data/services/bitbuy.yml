@@ -1,0 +1,3 @@
+- name: Bitbuy
+  url: bitbuy
+  2fa: null

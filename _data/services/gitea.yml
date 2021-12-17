@@ -1,0 +1,3 @@
+- name: Gitea
+  url: gitea
+  2fa: null

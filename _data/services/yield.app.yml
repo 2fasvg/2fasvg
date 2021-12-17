@@ -1,0 +1,3 @@
+- name: Yield
+  url: yield.app
+  2fa: null

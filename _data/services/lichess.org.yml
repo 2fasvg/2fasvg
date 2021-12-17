@@ -1,0 +1,3 @@
+- name: Lichess
+  url: lichess.org
+  2fa: null

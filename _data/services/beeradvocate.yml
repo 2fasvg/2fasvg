@@ -1,0 +1,3 @@
+- name: Beeradvocate
+  url: beeradvocate
+  2fa: null

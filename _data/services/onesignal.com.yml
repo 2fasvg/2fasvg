@@ -1,0 +1,3 @@
+- name: Onesignal
+  url: onesignal.com
+  2fa: null

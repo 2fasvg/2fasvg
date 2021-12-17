@@ -1,0 +1,3 @@
+- name: Pay
+  url: pay.amazon.com
+  2fa: null

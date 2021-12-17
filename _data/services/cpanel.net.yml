@@ -1,0 +1,3 @@
+- name: Cpanel
+  url: cpanel.net
+  2fa: null

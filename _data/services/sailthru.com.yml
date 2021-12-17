@@ -1,0 +1,3 @@
+- name: Sailthru
+  url: sailthru.com
+  2fa: null

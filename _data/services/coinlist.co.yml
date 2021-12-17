@@ -1,0 +1,3 @@
+- name: Coinlist
+  url: coinlist.co
+  2fa: null

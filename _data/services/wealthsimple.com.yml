@@ -1,0 +1,3 @@
+- name: Wealthsimple
+  url: wealthsimple.com
+  2fa: null

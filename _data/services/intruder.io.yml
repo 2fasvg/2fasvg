@@ -1,0 +1,3 @@
+- name: Intruder
+  url: intruder.io
+  2fa: null

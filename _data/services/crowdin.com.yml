@@ -1,0 +1,3 @@
+- name: Crowdin
+  url: crowdin.com
+  2fa: null

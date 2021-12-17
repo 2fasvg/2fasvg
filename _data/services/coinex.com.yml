@@ -1,0 +1,3 @@
+- name: Coinex
+  url: coinex.com
+  2fa: null

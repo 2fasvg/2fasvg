@@ -1,0 +1,3 @@
+- name: Jamf
+  url: jamf
+  2fa: null

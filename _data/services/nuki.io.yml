@@ -1,0 +1,3 @@
+- name: Nuki
+  url: nuki.io
+  2fa: null

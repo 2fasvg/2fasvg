@@ -1,0 +1,3 @@
+- name: Register365
+  url: register365.com
+  2fa: null

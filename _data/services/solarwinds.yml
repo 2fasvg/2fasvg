@@ -1,0 +1,3 @@
+- name: Solarwinds
+  url: solarwinds
+  2fa: null

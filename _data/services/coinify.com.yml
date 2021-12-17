@@ -1,0 +1,3 @@
+- name: Coinify
+  url: coinify.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Home
+  url: home.bluesnap.com
+  2fa: null

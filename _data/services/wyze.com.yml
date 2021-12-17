@@ -1,0 +1,3 @@
+- name: Wyze
+  url: wyze.com
+  2fa: null

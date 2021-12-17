@@ -1,0 +1,3 @@
+- name: Gocardless
+  url: gocardless.com
+  2fa: null

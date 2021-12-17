@@ -1,0 +1,3 @@
+- name: Pusher
+  url: pusher.com
+  2fa: null

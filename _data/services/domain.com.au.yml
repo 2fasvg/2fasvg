@@ -1,0 +1,3 @@
+- name: Domain
+  url: domain.com.au
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Whois
+  url: whois.com
+  2fa: null

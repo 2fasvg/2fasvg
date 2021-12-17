@@ -1,0 +1,3 @@
+- name: Sinch
+  url: sinch.com
+  2fa: null

@@ -1,0 +1,7 @@
+.DS_Store
+.jekyll-cache/
+_site
+vendor
+.bundle
+node_modules
+package-lock.json

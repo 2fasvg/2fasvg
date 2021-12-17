@@ -1,0 +1,3 @@
+- name: Directus
+  url: directus
+  2fa: null

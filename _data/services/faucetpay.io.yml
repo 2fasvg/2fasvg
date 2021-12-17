@@ -1,0 +1,3 @@
+- name: Faucetpay
+  url: faucetpay.io
+  2fa: null

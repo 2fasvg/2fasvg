@@ -1,0 +1,23 @@
+{
+  "name": "fix",
+  "version": "1.0.0",
+  "description": "fix",
+  "scripts": {
+    "dev": "bundle exec jekyll serve --livereload",
+    "yml": "ruby yml.rb",
+    "tost": "ruby tost.rb",
+    "folder": "ruby folder.rb",
+    "convert": "ruby convert.rb",
+    "realease": "ruby yml.rb && ruby tost.rb && ruby folder.rb && ruby convert.rb",
+    "git": "git add . -A && git commit -a -m \"update\" && git push"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-minify-selectors": "^1.1.0",
+    "gulp-v3": "^3.12.1"
+  }
+}

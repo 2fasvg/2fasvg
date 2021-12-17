@@ -1,0 +1,3 @@
+- name: Sendinblue
+  url: sendinblue.com
+  2fa: null

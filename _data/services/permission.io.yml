@@ -1,0 +1,3 @@
+- name: Permission
+  url: permission.io
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Razorpay
+  url: razorpay.com
+  2fa: null

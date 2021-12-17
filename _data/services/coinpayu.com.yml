@@ -1,0 +1,3 @@
+- name: Coinpayu
+  url: coinpayu.com
+  2fa: null
