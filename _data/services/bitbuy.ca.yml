@@ -1,0 +1,3 @@
+- name: Bitbuy
+  url: bitbuy.ca
+  2fa: null

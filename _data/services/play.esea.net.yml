@@ -1,0 +1,3 @@
+- name: Play
+  url: play.esea.net
+  2fa: null

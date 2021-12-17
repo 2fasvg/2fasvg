@@ -1,0 +1,3 @@
+- name: Seedboxes
+  url: seedboxes.cc
+  2fa: null

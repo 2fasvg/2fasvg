@@ -1,0 +1,3 @@
+- name: Post
+  url: post.lu
+  2fa: null

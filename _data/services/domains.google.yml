@@ -1,0 +1,3 @@
+- name: Domains
+  url: domains.google
+  2fa: null

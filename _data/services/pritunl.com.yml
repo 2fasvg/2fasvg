@@ -1,0 +1,3 @@
+- name: Pritunl
+  url: pritunl.com
+  2fa: null
