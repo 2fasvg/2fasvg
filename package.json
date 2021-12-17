@@ -4,6 +4,7 @@
   "description": "fix",
   "scripts": {
     "dev": "bundle exec jekyll serve --livereload",
+    "test": "ruby test.rb",
     "yml": "ruby yml.rb",
     "tost": "ruby tost.rb",
     "folder": "ruby folder.rb",
