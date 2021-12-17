@@ -1,0 +1,3 @@
+- name: Okex
+  url: okex.com
+  2fa: null

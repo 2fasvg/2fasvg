@@ -1,0 +1,3 @@
+- name: Wallet
+  url: wallet.io
+  2fa: null

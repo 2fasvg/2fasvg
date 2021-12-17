@@ -1,0 +1,3 @@
+- name: Betfair
+  url: betfair.com
+  2fa: null

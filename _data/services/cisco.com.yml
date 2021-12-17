@@ -1,0 +1,3 @@
+- name: Cisco
+  url: cisco.com
+  2fa: null

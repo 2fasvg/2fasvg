@@ -1,0 +1,3 @@
+- name: Cex
+  url: cex.io
+  2fa: null

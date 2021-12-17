@@ -1,0 +1,3 @@
+- name: Cloudapp
+  url: cloudapp
+  2fa: null

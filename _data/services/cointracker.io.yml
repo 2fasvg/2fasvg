@@ -1,0 +1,3 @@
+- name: Cointracker
+  url: cointracker.io
+  2fa: null

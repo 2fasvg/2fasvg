@@ -1,0 +1,3 @@
+- name: Changelly
+  url: changelly.com
+  2fa: null

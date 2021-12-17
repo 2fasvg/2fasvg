@@ -1,0 +1,3 @@
+- name: Coingate
+  url: coingate.com
+  2fa: null

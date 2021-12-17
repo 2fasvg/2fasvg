@@ -1,0 +1,3 @@
+- name: Homebridge
+  url: homebridge
+  2fa: null

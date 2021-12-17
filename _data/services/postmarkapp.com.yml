@@ -1,0 +1,3 @@
+- name: Postmarkapp
+  url: postmarkapp.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Kucoin
+  url: kucoin.com
+  2fa: null

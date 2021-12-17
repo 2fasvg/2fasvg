@@ -1,0 +1,3 @@
+- name: Poloniex
+  url: poloniex.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Apple
+  url: apple.com
+  2fa: null

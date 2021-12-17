@@ -4,12 +4,12 @@
   "description": "fix",
   "scripts": {
     "dev": "bundle exec jekyll serve --livereload",
-    "test": "ruby test.rb",
+    "total": "ruby total.rb",
     "yml": "ruby yml.rb",
     "tost": "ruby tost.rb",
     "folder": "ruby folder.rb",
     "convert": "ruby convert.rb",
-    "realease": "ruby yml.rb && ruby tost.rb && ruby folder.rb && ruby convert.rb",
+    "realease": "ruby yml.rb && ruby tost.rb && ruby folder.rb && ruby convert.rb && ruby total.rb",
     "git": "git add . -A && git commit -a -m \"update\" && git push"
   },
   "author": "",

@@ -1,0 +1,3 @@
+- name: Discogs
+  url: discogs.com
+  2fa: null

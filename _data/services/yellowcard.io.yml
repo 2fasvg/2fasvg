@@ -1,0 +1,3 @@
+- name: Yellowcard
+  url: yellowcard.io
+  2fa: null

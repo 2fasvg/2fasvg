@@ -1,0 +1,3 @@
+- name: Godaddy
+  url: godaddy.com
+  2fa: null

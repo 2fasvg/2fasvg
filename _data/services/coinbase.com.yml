@@ -1,0 +1,3 @@
+- name: Coinbase
+  url: coinbase.com
+  2fa: null

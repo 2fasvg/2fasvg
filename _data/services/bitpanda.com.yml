@@ -1,0 +1,3 @@
+- name: Bitpanda
+  url: bitpanda.com
+  2fa: null

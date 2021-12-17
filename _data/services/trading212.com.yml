@@ -1,0 +1,3 @@
+- name: Trading212
+  url: trading212.com
+  2fa: null

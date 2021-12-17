@@ -1,0 +1,3 @@
+- name: Bitstamp
+  url: bitstamp.net
+  2fa: null

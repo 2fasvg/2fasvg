@@ -1,0 +1,3 @@
+- name: Wikipedia
+  url: wikipedia.org
+  2fa: null

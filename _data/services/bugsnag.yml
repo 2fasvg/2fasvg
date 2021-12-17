@@ -1,0 +1,3 @@
+- name: Bugsnag
+  url: bugsnag
+  2fa: null
