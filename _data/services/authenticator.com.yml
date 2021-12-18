@@ -1,0 +1,3 @@
+- name: Authenticator
+  url: authenticator.com
+  2fa: null

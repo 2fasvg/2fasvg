@@ -1,0 +1,3 @@
+- name: Bybit
+  url: bybit.com
+  2fa: null

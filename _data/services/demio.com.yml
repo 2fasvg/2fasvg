@@ -1,0 +1,3 @@
+- name: Demio
+  url: demio.com
+  2fa: null

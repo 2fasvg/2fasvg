@@ -6,7 +6,7 @@ Dir.foreach("assets/img/logo/") do |filename|
     file_title = file_no_extension.split(' ', 2).first
     # creating folder
     curent_path = "/assets/img/logo/"
-    system("cd .#{curent_path} && rm -r #{file_title}")
+    # system("cd .#{curent_path} && rm -r #{file_title}")
     system("cd .#{curent_path} && mkdir #{file_title}")
     # move file
     system("cd .#{curent_path} && mv #{filename} #{file_title}/#{filename}")
