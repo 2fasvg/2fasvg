@@ -1,0 +1,3 @@
+- name: Bittrex
+  url: bittrex.com
+  2fa: null

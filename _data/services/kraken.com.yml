@@ -1,0 +1,3 @@
+- name: Kraken
+  url: kraken.com
+  2fa: null

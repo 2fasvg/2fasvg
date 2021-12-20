@@ -1,0 +1,3 @@
+- name: Clickup
+  url: clickup.com
+  2fa: null

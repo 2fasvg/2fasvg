@@ -1,0 +1,3 @@
+- name: Gitlab
+  url: gitlab.com
+  2fa: null

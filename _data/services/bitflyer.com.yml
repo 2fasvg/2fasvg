@@ -1,0 +1,3 @@
+- name: Bitflyer
+  url: bitflyer.com
+  2fa: null

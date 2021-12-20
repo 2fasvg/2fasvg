@@ -1,0 +1,3 @@
+- name: Coinmate
+  url: coinmate.io
+  2fa: null

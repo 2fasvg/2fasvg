@@ -1,0 +1,3 @@
+- name: Cloudbees
+  url: cloudbees.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Vultr
+  url: vultr.com
+  2fa: null

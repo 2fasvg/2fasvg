@@ -1,0 +1,3 @@
+- name: Glassdoor
+  url: glassdoor.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Mailerlite
+  url: mailerlite.com
+  2fa: null

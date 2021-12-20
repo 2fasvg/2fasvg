@@ -1,0 +1,3 @@
+- name: Exmo
+  url: exmo.com
+  2fa: null

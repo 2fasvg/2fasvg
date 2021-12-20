@@ -1,0 +1,3 @@
+- name: Bitbaypay
+  url: bitbaypay.com
+  2fa: null

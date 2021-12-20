@@ -1,0 +1,3 @@
+- name: Lastpass
+  url: lastpass.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Bitmex
+  url: bitmex.com
+  2fa: null

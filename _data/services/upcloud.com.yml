@@ -1,0 +1,3 @@
+- name: Upcloud
+  url: upcloud.com
+  2fa: null

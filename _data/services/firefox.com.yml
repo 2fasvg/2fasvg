@@ -1,0 +1,3 @@
+- name: Firefox
+  url: firefox.com
+  2fa: null
