@@ -1,0 +1,3 @@
+- name: Flickr
+  url: flickr.com
+  2fa: null

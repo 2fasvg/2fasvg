@@ -1,0 +1,3 @@
+- name: Wufoo
+  url: wufoo.com
+  2fa: null

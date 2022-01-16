@@ -1,0 +1,3 @@
+- name: Vmware
+  url: vmware.com
+  2fa: null

@@ -1,0 +1,3 @@
+- name: Usps
+  url: usps.com
+  2fa: null

@@ -2,7 +2,7 @@
 #  puts filen =  File.basename(filename, "*")
 # end
 
-system("cd ./_data/ && rm -rf services && mkdir services")
+# system("cd ./_data/ && rm -rf services && mkdir services")
 Dir.foreach("assets/img/logo/") do |file|
 # file_extension = File.extname(file)
   if File.extname(file) == ".svg"

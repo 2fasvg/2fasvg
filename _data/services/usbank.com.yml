@@ -1,0 +1,3 @@
+- name: Usbank
+  url: usbank.com
+  2fa: null

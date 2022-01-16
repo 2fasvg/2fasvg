@@ -1,0 +1,3 @@
+- name: Mycloud
+  url: mycloud.com
+  2fa: null

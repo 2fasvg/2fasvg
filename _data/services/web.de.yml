@@ -1,0 +1,3 @@
+- name: Web
+  url: web.de
+  2fa: null

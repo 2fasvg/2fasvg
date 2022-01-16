@@ -1,0 +1,3 @@
+- name: Wsj
+  url: wsj.com
+  2fa: null
