@@ -1,3 +1,4 @@
 - name: Surf
   url: surf.com
   2fa: null
+  tags: Surf

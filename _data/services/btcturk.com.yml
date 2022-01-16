@@ -1,3 +1,4 @@
 - name: Btcturk
   url: btcturk.com
   2fa: null
+  tags: Btcturk

@@ -1,3 +1,4 @@
 - name: Whatsapp
   url: whatsapp.com
   2fa: null
+  tags: Whatsapp

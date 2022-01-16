@@ -1,3 +1,4 @@
 - name: Nextdns
   url: nextdns.io
   2fa: null
+  tags: Nextdns

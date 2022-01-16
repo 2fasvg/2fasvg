@@ -1,3 +1,4 @@
 - name: Buddy
   url: buddy.works
   2fa: null
+  tags: Buddy

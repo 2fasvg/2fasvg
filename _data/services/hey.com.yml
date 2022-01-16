@@ -1,3 +1,4 @@
 - name: Hey
   url: hey.com
   2fa: null
+  tags: Hey

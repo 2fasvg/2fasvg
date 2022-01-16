@@ -1,3 +1,4 @@
 - name: Coinpot
   url: coinpot.in
   2fa: null
+  tags: Coinpot

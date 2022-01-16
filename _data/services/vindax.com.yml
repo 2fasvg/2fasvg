@@ -1,3 +1,4 @@
 - name: Vindax
   url: vindax.com
   2fa: null
+  tags: Vindax

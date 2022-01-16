@@ -1,3 +1,4 @@
 - name: D4sign
   url: d4sign.com.br
   2fa: null
+  tags: D4sign

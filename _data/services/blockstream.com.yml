@@ -1,3 +1,4 @@
 - name: Blockstream
   url: blockstream.com
   2fa: null
+  tags: Blockstream

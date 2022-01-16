@@ -1,3 +1,4 @@
 - name: Nakivo
   url: nakivo.com
   2fa: null
+  tags: Nakivo

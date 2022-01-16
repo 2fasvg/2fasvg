@@ -1,3 +1,4 @@
 - name: Bitrue
   url: bitrue.com
   2fa: null
+  tags: Bitrue

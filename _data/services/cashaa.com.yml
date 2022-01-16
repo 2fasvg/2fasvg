@@ -1,3 +1,4 @@
 - name: Cashaa
   url: cashaa.com
   2fa: null
+  tags: Cashaa

@@ -1,3 +1,4 @@
 - name: Dropbox
   url: dropbox.com
   2fa: null
+  tags: Dropbox

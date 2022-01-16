@@ -1,3 +1,4 @@
 - name: Chargebee
   url: chargebee.com
   2fa: null
+  tags: Chargebee

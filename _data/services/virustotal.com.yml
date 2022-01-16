@@ -1,3 +1,4 @@
 - name: Virustotal
   url: virustotal.com
   2fa: null
+  tags: Virustotal

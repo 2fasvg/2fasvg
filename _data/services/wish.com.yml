@@ -1,3 +1,4 @@
 - name: Wish
   url: wish.com
   2fa: null
+  tags: Wish

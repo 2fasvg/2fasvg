@@ -1,3 +1,4 @@
 - name: Coinone
   url: coinone.co.kr
   2fa: null
+  tags: Coinone

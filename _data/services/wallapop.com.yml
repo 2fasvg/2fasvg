@@ -1,3 +1,4 @@
 - name: Wallapop
   url: wallapop.com
   2fa: null
+  tags: Wallapop

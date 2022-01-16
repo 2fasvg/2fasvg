@@ -1,3 +1,4 @@
 - name: Nordlocker
   url: nordlocker.com
   2fa: null
+  tags: Nordlocker

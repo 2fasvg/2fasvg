@@ -1,3 +1,4 @@
 - name: Mycointainer
   url: mycointainer.com
   2fa: null
+  tags: Mycointainer

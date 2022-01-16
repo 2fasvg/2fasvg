@@ -1,3 +1,4 @@
 - name: Bitbank
   url: bitbank.cc
   2fa: null
+  tags: Bitbank

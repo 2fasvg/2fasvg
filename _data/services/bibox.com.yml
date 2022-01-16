@@ -1,3 +1,4 @@
 - name: Bibox
   url: bibox.com
   2fa: null
+  tags: Bibox

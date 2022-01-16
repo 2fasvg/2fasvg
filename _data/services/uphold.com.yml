@@ -1,3 +1,4 @@
 - name: Uphold
   url: uphold.com
   2fa: null
+  tags: Uphold

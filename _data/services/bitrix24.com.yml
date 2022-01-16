@@ -1,3 +1,4 @@
 - name: Bitrix24
   url: bitrix24.com
   2fa: null
+  tags: Bitrix24

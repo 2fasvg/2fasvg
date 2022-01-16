@@ -1,3 +1,4 @@
 - name: Coinsbit
   url: coinsbit.io
   2fa: null
+  tags: Coinsbit

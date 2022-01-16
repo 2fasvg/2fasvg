@@ -1,3 +1,4 @@
 - name: Piwik
   url: piwik.pro
   2fa: null
+  tags: Piwik

@@ -1,3 +1,4 @@
 - name: Phpmyadmin
   url: phpmyadmin.net
   2fa: null
+  tags: Phpmyadmin

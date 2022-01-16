@@ -1,3 +1,4 @@
 - name: Paypal
   url: paypal.com
   2fa: null
+  tags: Paypal

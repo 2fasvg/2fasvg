@@ -1,3 +1,4 @@
 - name: Zoom
   url: zoom.us
   2fa: null
+  tags: Zoom

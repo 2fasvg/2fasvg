@@ -1,3 +1,4 @@
 - name: Stripe
   url: stripe.com
   2fa: null
+  tags: Stripe

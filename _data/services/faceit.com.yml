@@ -1,3 +1,4 @@
 - name: Faceit
   url: faceit.com
   2fa: null
+  tags: Faceit

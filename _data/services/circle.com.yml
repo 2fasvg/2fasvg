@@ -1,3 +1,4 @@
 - name: Circle
   url: circle.com
   2fa: null
+  tags: Circle

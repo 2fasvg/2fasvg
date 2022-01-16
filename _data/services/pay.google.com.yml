@@ -1,3 +1,4 @@
 - name: Pay
   url: pay.google.com
   2fa: null
+  tags: Pay

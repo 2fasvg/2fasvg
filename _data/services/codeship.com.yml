@@ -1,3 +1,4 @@
 - name: Codeship
   url: codeship.com
   2fa: null
+  tags: Codeship

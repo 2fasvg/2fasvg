@@ -1,3 +1,4 @@
 - name: Breachlock
   url: breachlock.com
   2fa: null
+  tags: Breachlock

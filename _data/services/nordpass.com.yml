@@ -1,3 +1,4 @@
 - name: Nordpass
   url: nordpass.com
   2fa: null
+  tags: Nordpass

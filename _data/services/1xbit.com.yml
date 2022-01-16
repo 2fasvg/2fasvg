@@ -1,3 +1,4 @@
 - name: 1xbit
   url: 1xbit.com
   2fa: null
+  tags: 1xbit

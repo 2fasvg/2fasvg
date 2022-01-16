@@ -1,3 +1,4 @@
 - name: Linkedin
   url: linkedin.com
   2fa: null
+  tags: Linkedin

@@ -1,3 +1,4 @@
 - name: Centrify
   url: centrify.com
   2fa: null
+  tags: Centrify

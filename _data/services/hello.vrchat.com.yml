@@ -1,3 +1,4 @@
 - name: Hello
   url: hello.vrchat.com
   2fa: null
+  tags: Hello

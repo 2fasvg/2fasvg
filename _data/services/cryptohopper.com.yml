@@ -1,3 +1,4 @@
 - name: Cryptohopper
   url: cryptohopper.com
   2fa: null
+  tags: Cryptohopper

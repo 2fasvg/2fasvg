@@ -1,3 +1,4 @@
 - name: Payslip
   url: payslip.com
   2fa: null
+  tags: Payslip

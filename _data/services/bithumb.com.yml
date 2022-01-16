@@ -1,3 +1,4 @@
 - name: Bithumb
   url: bithumb.com
   2fa: null
+  tags: Bithumb

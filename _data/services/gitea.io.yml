@@ -1,3 +1,4 @@
 - name: Gitea
   url: gitea.io
   2fa: null
+  tags: Gitea

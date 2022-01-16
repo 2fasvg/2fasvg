@@ -1,3 +1,4 @@
 - name: Buffer
   url: buffer.com
   2fa: null
+  tags: Buffer

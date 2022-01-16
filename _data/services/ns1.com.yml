@@ -1,3 +1,4 @@
 - name: Ns1
   url: ns1.com
   2fa: null
+  tags: Ns1

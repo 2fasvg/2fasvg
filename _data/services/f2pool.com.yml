@@ -1,3 +1,4 @@
 - name: F2pool
   url: f2pool.com
   2fa: null
+  tags: F2pool

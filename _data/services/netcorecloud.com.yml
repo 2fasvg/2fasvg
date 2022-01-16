@@ -1,3 +1,4 @@
 - name: Netcorecloud
   url: netcorecloud.com
   2fa: null
+  tags: Netcorecloud

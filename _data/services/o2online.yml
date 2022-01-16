@@ -1,3 +1,4 @@
 - name: O2online
   url: o2online
   2fa: null
+  tags: O2online

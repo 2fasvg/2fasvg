@@ -1,3 +1,4 @@
 - name: Coinzilla
   url: coinzilla.com
   2fa: null
+  tags: Coinzilla

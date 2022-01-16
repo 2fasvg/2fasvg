@@ -1,3 +1,4 @@
 - name: Logitech
   url: logitech.com
   2fa: null
+  tags: Logitech

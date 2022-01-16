@@ -1,3 +1,4 @@
 - name: Close
   url: close.com
   2fa: null
+  tags: Close

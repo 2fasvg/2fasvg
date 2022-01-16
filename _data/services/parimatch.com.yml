@@ -1,3 +1,4 @@
 - name: Parimatch
   url: parimatch.com
   2fa: null
+  tags: Parimatch

@@ -1,3 +1,4 @@
 - name: Mega
   url: mega.nz
   2fa: null
+  tags: Mega

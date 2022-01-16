@@ -1,3 +1,4 @@
 - name: Solarwinds
   url: solarwinds.com
   2fa: null
+  tags: Solarwinds

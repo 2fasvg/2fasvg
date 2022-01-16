@@ -11,7 +11,8 @@ Dir.foreach("assets/img/logo/") do |file|
     File.open("_data/services/#{new_file_name}.yml", "w") {|f| f.write(
 "- name: #{new_service_name}
   url: #{new_file_name}
-  2fa: null"
+  2fa: null
+  tags: #{new_service_name}"
   )}
     end
 end

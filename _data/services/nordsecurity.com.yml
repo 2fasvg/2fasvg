@@ -1,3 +1,4 @@
 - name: Nordsecurity
   url: nordsecurity.com
   2fa: null
+  tags: Nordsecurity

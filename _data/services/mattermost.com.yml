@@ -1,3 +1,4 @@
 - name: Mattermost
   url: mattermost.com
   2fa: null
+  tags: Mattermost

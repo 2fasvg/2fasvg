@@ -1,3 +1,4 @@
 - name: Spreedly
   url: spreedly.com
   2fa: null
+  tags: Spreedly

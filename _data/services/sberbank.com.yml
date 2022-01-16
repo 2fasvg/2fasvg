@@ -1,3 +1,4 @@
 - name: Sberbank
   url: sberbank.com
   2fa: null
+  tags: Sberbank

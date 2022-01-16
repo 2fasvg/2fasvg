@@ -1,3 +1,4 @@
 - name: Crashtest
   url: crashtest.cloud
   2fa: null
+  tags: Crashtest

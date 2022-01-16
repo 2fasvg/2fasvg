@@ -1,3 +1,4 @@
 - name: Fanduel
   url: fanduel.com
   2fa: null
+  tags: Fanduel

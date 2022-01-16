@@ -1,3 +1,4 @@
 - name: Bitso
   url: bitso.com
   2fa: null
+  tags: Bitso

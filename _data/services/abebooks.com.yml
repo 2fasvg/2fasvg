@@ -1,3 +1,4 @@
 - name: Abebooks
   url: abebooks.com
   2fa: null
+  tags: Abebooks

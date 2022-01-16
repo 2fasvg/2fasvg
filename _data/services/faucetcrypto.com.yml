@@ -1,3 +1,4 @@
 - name: Faucetcrypto
   url: faucetcrypto.com
   2fa: null
+  tags: Faucetcrypto

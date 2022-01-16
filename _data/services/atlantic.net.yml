@@ -1,3 +1,4 @@
 - name: Atlantic
   url: atlantic.net
   2fa: null
+  tags: Atlantic

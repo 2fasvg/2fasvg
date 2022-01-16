@@ -1,3 +1,4 @@
 - name: Greenaddress
   url: greenaddress.it
   2fa: null
+  tags: Greenaddress

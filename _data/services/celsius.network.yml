@@ -1,3 +1,4 @@
 - name: Celsius
   url: celsius.network
   2fa: null
+  tags: Celsius

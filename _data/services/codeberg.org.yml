@@ -1,3 +1,4 @@
 - name: Codeberg
   url: codeberg.org
   2fa: null
+  tags: Codeberg

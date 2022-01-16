@@ -1,3 +1,4 @@
 - name: Linode
   url: linode.com
   2fa: null
+  tags: Linode

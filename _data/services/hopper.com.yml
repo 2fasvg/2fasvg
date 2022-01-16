@@ -1,3 +1,4 @@
 - name: Hopper
   url: hopper.com
   2fa: null
+  tags: Hopper

@@ -1,3 +1,4 @@
 - name: 9gag
   url: 9gag.com
   2fa: null
+  tags: 9gag

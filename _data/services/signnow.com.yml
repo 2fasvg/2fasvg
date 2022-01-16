@@ -1,3 +1,4 @@
 - name: Signnow
   url: signnow.com
   2fa: null
+  tags: Signnow

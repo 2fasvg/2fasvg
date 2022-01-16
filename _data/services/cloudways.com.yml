@@ -1,3 +1,4 @@
 - name: Cloudways
   url: cloudways.com
   2fa: null
+  tags: Cloudways

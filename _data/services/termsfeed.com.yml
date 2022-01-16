@@ -1,3 +1,4 @@
 - name: Termsfeed
   url: termsfeed.com
   2fa: null
+  tags: Termsfeed

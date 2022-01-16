@@ -1,3 +1,4 @@
 - name: Shazam
   url: shazam.com
   2fa: null
+  tags: Shazam

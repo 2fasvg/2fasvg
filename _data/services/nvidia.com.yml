@@ -1,3 +1,4 @@
 - name: Nvidia
   url: nvidia.com
   2fa: null
+  tags: Nvidia

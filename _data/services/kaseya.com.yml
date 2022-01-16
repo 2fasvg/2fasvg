@@ -1,3 +1,4 @@
 - name: Kaseya
   url: kaseya.com
   2fa: null
+  tags: Kaseya

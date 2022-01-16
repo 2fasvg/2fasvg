@@ -1,3 +1,4 @@
 - name: Sonos
   url: sonos.com
   2fa: null
+  tags: Sonos

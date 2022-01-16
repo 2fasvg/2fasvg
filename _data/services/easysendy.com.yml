@@ -1,3 +1,4 @@
 - name: Easysendy
   url: easysendy.com
   2fa: null
+  tags: Easysendy

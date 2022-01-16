@@ -1,3 +1,4 @@
 - name: Tray
   url: tray.io
   2fa: null
+  tags: Tray

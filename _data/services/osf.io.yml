@@ -1,3 +1,4 @@
 - name: Osf
   url: osf.io
   2fa: null
+  tags: Osf

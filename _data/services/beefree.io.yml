@@ -1,3 +1,4 @@
 - name: Beefree
   url: beefree.io
   2fa: null
+  tags: Beefree

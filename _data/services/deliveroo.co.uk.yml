@@ -1,3 +1,4 @@
 - name: Deliveroo
   url: deliveroo.co.uk
   2fa: null
+  tags: Deliveroo

@@ -1,3 +1,4 @@
 - name: Homey
   url: homey.app
   2fa: null
+  tags: Homey

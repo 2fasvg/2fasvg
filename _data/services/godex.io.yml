@@ -1,3 +1,4 @@
 - name: Godex
   url: godex.io
   2fa: null
+  tags: Godex

@@ -1,3 +1,4 @@
 - name: Kuna
   url: kuna.io
   2fa: null
+  tags: Kuna

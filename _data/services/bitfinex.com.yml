@@ -1,3 +1,4 @@
 - name: Bitfinex
   url: bitfinex.com
   2fa: null
+  tags: Bitfinex

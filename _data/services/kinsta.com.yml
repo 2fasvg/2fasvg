@@ -1,3 +1,4 @@
 - name: Kinsta
   url: kinsta.com
   2fa: null
+  tags: Kinsta

@@ -1,3 +1,4 @@
 - name: Boomi
   url: boomi.com
   2fa: null
+  tags: Boomi

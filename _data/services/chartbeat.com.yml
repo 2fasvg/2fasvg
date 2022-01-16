@@ -1,3 +1,4 @@
 - name: Chartbeat
   url: chartbeat.com
   2fa: null
+  tags: Chartbeat

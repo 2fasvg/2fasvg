@@ -1,3 +1,4 @@
 - name: Talkdesk
   url: talkdesk.com
   2fa: null
+  tags: Talkdesk

@@ -1,3 +1,4 @@
 - name: Detectify
   url: detectify.com
   2fa: null
+  tags: Detectify

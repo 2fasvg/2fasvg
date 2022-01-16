@@ -1,3 +1,4 @@
 - name: Bitvavo
   url: bitvavo.com
   2fa: null
+  tags: Bitvavo

@@ -1,3 +1,4 @@
 - name: Drift
   url: drift.com
   2fa: null
+  tags: Drift

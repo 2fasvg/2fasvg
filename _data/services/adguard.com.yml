@@ -1,3 +1,4 @@
 - name: Adguard
   url: adguard.com
   2fa: null
+  tags: Adguard

@@ -1,3 +1,4 @@
 - name: Robinhood
   url: robinhood.com
   2fa: null
+  tags: Robinhood

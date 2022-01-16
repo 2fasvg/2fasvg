@@ -1,3 +1,4 @@
 - name: Waves
   url: waves.exchange
   2fa: null
+  tags: Waves

@@ -1,3 +1,4 @@
 - name: Time4vps
   url: time4vps.com
   2fa: null
+  tags: Time4vps

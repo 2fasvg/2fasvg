@@ -1,3 +1,4 @@
 - name: F-secure
   url: f-secure.com
   2fa: null
+  tags: F-secure

@@ -1,3 +1,4 @@
 - name: Flixster
   url: flixster.com
   2fa: null
+  tags: Flixster

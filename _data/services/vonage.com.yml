@@ -1,3 +1,4 @@
 - name: Vonage
   url: vonage.com
   2fa: null
+  tags: Vonage

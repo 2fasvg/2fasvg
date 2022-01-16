@@ -1,3 +1,4 @@
 - name: Waze
   url: waze.com
   2fa: null
+  tags: Waze

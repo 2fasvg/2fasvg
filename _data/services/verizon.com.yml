@@ -1,3 +1,4 @@
 - name: Verizon
   url: verizon.com
   2fa: null
+  tags: Verizon

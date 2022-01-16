@@ -1,3 +1,4 @@
 - name: Whmcs
   url: whmcs.com
   2fa: null
+  tags: Whmcs

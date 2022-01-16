@@ -1,3 +1,4 @@
 - name: Icq
   url: icq.com
   2fa: null
+  tags: Icq

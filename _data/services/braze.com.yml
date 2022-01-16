@@ -1,3 +1,4 @@
 - name: Braze
   url: braze.com
   2fa: null
+  tags: Braze

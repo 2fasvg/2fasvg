@@ -1,3 +1,4 @@
 - name: Hostmonster
   url: hostmonster.com
   2fa: null
+  tags: Hostmonster

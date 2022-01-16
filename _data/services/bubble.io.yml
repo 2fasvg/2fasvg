@@ -1,3 +1,4 @@
 - name: Bubble
   url: bubble.io
   2fa: null
+  tags: Bubble

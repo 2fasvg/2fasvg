@@ -1,3 +1,4 @@
 - name: Cisco
   url: cisco.com
   2fa: null
+  tags: Cisco

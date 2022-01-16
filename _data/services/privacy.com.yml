@@ -1,3 +1,4 @@
 - name: Privacy
   url: privacy.com
   2fa: null
+  tags: Privacy

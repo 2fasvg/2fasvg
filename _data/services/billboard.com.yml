@@ -1,3 +1,4 @@
 - name: Billboard
   url: billboard.com
   2fa: null
+  tags: Billboard

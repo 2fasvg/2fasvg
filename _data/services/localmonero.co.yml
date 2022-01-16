@@ -1,3 +1,4 @@
 - name: Localmonero
   url: localmonero.co
   2fa: null
+  tags: Localmonero

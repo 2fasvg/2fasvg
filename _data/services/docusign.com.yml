@@ -1,3 +1,4 @@
 - name: Docusign
   url: docusign.com
   2fa: null
+  tags: Docusign

@@ -1,3 +1,4 @@
 - name: Vivint
   url: vivint.com
   2fa: null
+  tags: Vivint

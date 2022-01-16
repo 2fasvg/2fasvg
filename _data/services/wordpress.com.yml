@@ -1,3 +1,4 @@
 - name: Wordpress
   url: wordpress.com
   2fa: null
+  tags: Wordpress

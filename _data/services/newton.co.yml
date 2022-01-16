@@ -1,3 +1,4 @@
 - name: Newton
   url: newton.co
   2fa: null
+  tags: Newton

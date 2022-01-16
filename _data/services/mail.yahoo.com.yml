@@ -1,3 +1,4 @@
 - name: Mail
   url: mail.yahoo.com
   2fa: null
+  tags: Mail

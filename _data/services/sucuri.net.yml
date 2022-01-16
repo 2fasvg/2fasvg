@@ -1,3 +1,4 @@
 - name: Sucuri
   url: sucuri.net
   2fa: null
+  tags: Sucuri

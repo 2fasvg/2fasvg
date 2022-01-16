@@ -1,3 +1,4 @@
 - name: Backblaze
   url: backblaze.com
   2fa: null
+  tags: Backblaze

@@ -1,3 +1,4 @@
 - name: Yobit
   url: yobit.net
   2fa: null
+  tags: Yobit

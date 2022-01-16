@@ -1,3 +1,4 @@
 - name: Freetrade
   url: freetrade.io
   2fa: null
+  tags: Freetrade

@@ -1,3 +1,4 @@
 - name: Messagebird
   url: messagebird.com
   2fa: null
+  tags: Messagebird

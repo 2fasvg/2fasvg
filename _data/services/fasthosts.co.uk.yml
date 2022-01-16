@@ -1,3 +1,4 @@
 - name: Fasthosts
   url: fasthosts.co.uk
   2fa: null
+  tags: Fasthosts

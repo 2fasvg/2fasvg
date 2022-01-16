@@ -1,3 +1,4 @@
 - name: Bluehost
   url: bluehost.com
   2fa: null
+  tags: Bluehost

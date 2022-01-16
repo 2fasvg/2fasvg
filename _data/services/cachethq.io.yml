@@ -1,3 +1,4 @@
 - name: Cachethq
   url: cachethq.io
   2fa: null
+  tags: Cachethq

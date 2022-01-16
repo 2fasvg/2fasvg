@@ -1,3 +1,4 @@
 - name: Uplay
   url: uplay.ubi.com
   2fa: null
+  tags: Uplay

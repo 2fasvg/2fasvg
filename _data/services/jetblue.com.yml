@@ -1,3 +1,4 @@
 - name: Jetblue
   url: jetblue.com
   2fa: null
+  tags: Jetblue

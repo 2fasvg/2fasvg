@@ -1,3 +1,4 @@
 - name: Crypto
   url: crypto.com
   2fa: null
+  tags: Crypto

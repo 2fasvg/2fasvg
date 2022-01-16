@@ -1,3 +1,4 @@
 - name: Wealthfront
   url: wealthfront.com
   2fa: null
+  tags: Wealthfront

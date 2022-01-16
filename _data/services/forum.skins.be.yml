@@ -1,3 +1,4 @@
 - name: Forum
   url: forum.skins.be
   2fa: null
+  tags: Forum

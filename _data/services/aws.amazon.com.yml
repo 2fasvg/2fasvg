@@ -1,3 +1,4 @@
 - name: Aws
   url: aws.amazon.com
   2fa: null
+  tags: Aws

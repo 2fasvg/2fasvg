@@ -1,3 +1,4 @@
 - name: Tealium
   url: tealium.com
   2fa: null
+  tags: Tealium

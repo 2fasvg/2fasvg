@@ -1,3 +1,4 @@
 - name: 23andme
   url: 23andme.com
   2fa: null
+  tags: 23andme

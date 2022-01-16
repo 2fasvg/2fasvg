@@ -1,3 +1,4 @@
 - name: Protonmail
   url: protonmail.com
   2fa: null
+  tags: Protonmail

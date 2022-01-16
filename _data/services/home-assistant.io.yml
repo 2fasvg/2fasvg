@@ -1,3 +1,4 @@
 - name: Home-assistant
   url: home-assistant.io
   2fa: null
+  tags: Home-assistant

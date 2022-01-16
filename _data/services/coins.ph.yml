@@ -1,3 +1,4 @@
 - name: Coins
   url: coins.ph
   2fa: null
+  tags: Coins

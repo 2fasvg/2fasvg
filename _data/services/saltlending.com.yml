@@ -1,3 +1,4 @@
 - name: Saltlending
   url: saltlending.com
   2fa: null
+  tags: Saltlending

@@ -1,3 +1,4 @@
 - name: Front
   url: front.com
   2fa: null
+  tags: Front

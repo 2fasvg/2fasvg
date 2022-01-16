@@ -1,3 +1,4 @@
 - name: Luno
   url: luno.com
   2fa: null
+  tags: Luno

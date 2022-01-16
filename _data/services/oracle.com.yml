@@ -1,3 +1,4 @@
 - name: Oracle
   url: oracle.com
   2fa: null
+  tags: Oracle

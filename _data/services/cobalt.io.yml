@@ -1,3 +1,4 @@
 - name: Cobalt
   url: cobalt.io
   2fa: null
+  tags: Cobalt

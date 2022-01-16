@@ -1,3 +1,4 @@
 - name: Sender
   url: sender.net
   2fa: null
+  tags: Sender

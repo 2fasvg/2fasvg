@@ -1,3 +1,4 @@
 - name: Soundcloud
   url: soundcloud.com
   2fa: null
+  tags: Soundcloud

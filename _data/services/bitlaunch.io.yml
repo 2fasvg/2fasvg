@@ -1,3 +1,4 @@
 - name: Bitlaunch
   url: bitlaunch.io
   2fa: null
+  tags: Bitlaunch

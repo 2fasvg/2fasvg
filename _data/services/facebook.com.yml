@@ -1,3 +1,4 @@
 - name: Facebook
   url: facebook.com
   2fa: null
+  tags: Facebook

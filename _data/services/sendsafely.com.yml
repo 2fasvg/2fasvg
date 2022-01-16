@@ -1,3 +1,4 @@
 - name: Sendsafely
   url: sendsafely.com
   2fa: null
+  tags: Sendsafely

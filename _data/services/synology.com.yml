@@ -1,3 +1,4 @@
 - name: Synology
   url: synology.com
   2fa: null
+  tags: Synology

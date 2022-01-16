@@ -1,3 +1,4 @@
 - name: Active24
   url: active24.com
   2fa: null
+  tags: Active24

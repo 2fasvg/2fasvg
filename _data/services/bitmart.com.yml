@@ -1,3 +1,4 @@
 - name: Bitmart
   url: bitmart.com
   2fa: null
+  tags: Bitmart

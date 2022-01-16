@@ -1,3 +1,4 @@
 - name: Line
   url: line.me
   2fa: null
+  tags: Line

@@ -1,3 +1,4 @@
 - name: Xenforo
   url: xenforo.com
   2fa: null
+  tags: Xenforo

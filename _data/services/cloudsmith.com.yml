@@ -1,3 +1,4 @@
 - name: Cloudsmith
   url: cloudsmith.com
   2fa: null
+  tags: Cloudsmith

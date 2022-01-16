@@ -1,3 +1,4 @@
 - name: Americanexpress
   url: americanexpress.com
   2fa: null
+  tags: Americanexpress

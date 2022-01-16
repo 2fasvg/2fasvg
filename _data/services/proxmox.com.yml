@@ -1,3 +1,4 @@
 - name: Proxmox
   url: proxmox.com
   2fa: null
+  tags: Proxmox

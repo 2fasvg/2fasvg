@@ -1,3 +1,4 @@
 - name: Tokentax
   url: tokentax.co
   2fa: null
+  tags: Tokentax
