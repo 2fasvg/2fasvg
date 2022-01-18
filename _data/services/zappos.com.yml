@@ -1,0 +1,4 @@
+- name: Zappos
+  url: zappos.com
+  2fa: null
+  tags: Zappos

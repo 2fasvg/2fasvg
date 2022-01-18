@@ -1,0 +1,4 @@
+- name: Path
+  url: path.com
+  2fa: null
+  tags: Path

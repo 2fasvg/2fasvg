@@ -1,0 +1,4 @@
+- name: Parallels
+  url: parallels.com
+  2fa: null
+  tags: Parallels

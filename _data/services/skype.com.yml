@@ -1,0 +1,4 @@
+- name: Skype
+  url: skype.com
+  2fa: null
+  tags: Skype

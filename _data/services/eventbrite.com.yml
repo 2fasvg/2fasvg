@@ -1,0 +1,4 @@
+- name: Eventbrite
+  url: eventbrite.com
+  2fa: null
+  tags: Eventbrite

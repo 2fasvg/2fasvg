@@ -1,0 +1,4 @@
+- name: Meetup
+  url: meetup.com
+  2fa: null
+  tags: Meetup

@@ -1,0 +1,4 @@
+- name: Orbitz
+  url: orbitz.com
+  2fa: null
+  tags: Orbitz

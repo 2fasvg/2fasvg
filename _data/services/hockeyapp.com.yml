@@ -1,0 +1,4 @@
+- name: Hockeyapp
+  url: hockeyapp.com
+  2fa: null
+  tags: Hockeyapp

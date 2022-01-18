@@ -1,0 +1,4 @@
+- name: Airmiles
+  url: airmiles.com
+  2fa: null
+  tags: Airmiles

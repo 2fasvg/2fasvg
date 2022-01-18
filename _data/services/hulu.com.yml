@@ -1,0 +1,4 @@
+- name: Hulu
+  url: hulu.com
+  2fa: null
+  tags: Hulu

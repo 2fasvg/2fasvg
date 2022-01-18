@@ -1,0 +1,4 @@
+- name: Namecheap
+  url: namecheap.com
+  2fa: null
+  tags: Namecheap

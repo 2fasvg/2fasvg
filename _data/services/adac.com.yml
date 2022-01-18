@@ -1,0 +1,4 @@
+- name: Adac
+  url: adac.com
+  2fa: null
+  tags: Adac

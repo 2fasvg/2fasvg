@@ -1,0 +1,4 @@
+- name: Telekom
+  url: telekom.com
+  2fa: null
+  tags: Telekom

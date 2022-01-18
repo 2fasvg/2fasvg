@@ -1,0 +1,4 @@
+- name: Feedbin
+  url: feedbin.com
+  2fa: null
+  tags: Feedbin

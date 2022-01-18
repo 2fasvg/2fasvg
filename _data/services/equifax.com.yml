@@ -1,0 +1,4 @@
+- name: Equifax
+  url: equifax.com
+  2fa: null
+  tags: Equifax

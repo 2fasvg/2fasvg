@@ -1,0 +1,4 @@
+- name: Barclaycard
+  url: barclaycard.co.uk
+  2fa: null
+  tags: Barclaycard

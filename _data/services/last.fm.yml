@@ -1,0 +1,4 @@
+- name: Last
+  url: last.fm
+  2fa: null
+  tags: Last

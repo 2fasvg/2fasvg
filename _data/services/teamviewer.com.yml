@@ -1,0 +1,4 @@
+- name: Teamviewer
+  url: teamviewer.com
+  2fa: null
+  tags: Teamviewer

@@ -1,0 +1,4 @@
+- name: Duolingo
+  url: duolingo.com
+  2fa: null
+  tags: Duolingo

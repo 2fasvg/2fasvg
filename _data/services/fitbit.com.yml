@@ -1,0 +1,4 @@
+- name: Fitbit
+  url: fitbit.com
+  2fa: null
+  tags: Fitbit

@@ -1,0 +1,4 @@
+- name: Bestbuy
+  url: bestbuy.ocm
+  2fa: null
+  tags: Bestbuy

@@ -1,0 +1,4 @@
+- name: Hiddenapp
+  url: hiddenapp.com
+  2fa: null
+  tags: Hiddenapp

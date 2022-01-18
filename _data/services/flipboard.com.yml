@@ -1,0 +1,4 @@
+- name: Flipboard
+  url: flipboard.com
+  2fa: null
+  tags: Flipboard

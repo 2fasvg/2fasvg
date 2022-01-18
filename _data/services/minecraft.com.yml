@@ -1,0 +1,4 @@
+- name: Minecraft
+  url: minecraft.com
+  2fa: null
+  tags: Minecraft

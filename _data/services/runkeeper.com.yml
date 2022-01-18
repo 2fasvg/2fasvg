@@ -1,0 +1,4 @@
+- name: Runkeeper
+  url: runkeeper.com
+  2fa: null
+  tags: Runkeeper

@@ -1,0 +1,4 @@
+- name: Aliexpress
+  url: aliexpress.com
+  2fa: null
+  tags: Aliexpress

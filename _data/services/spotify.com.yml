@@ -1,0 +1,4 @@
+- name: Spotify
+  url: spotify.com
+  2fa: null
+  tags: Spotify

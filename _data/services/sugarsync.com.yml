@@ -1,0 +1,4 @@
+- name: Sugarsync
+  url: sugarsync.com
+  2fa: null
+  tags: Sugarsync

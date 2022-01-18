@@ -1,0 +1,4 @@
+- name: Mega
+  url: mega.io
+  2fa: null
+  tags: Mega

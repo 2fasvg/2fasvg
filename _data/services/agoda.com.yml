@@ -1,0 +1,4 @@
+- name: Agoda
+  url: agoda.com
+  2fa: null
+  tags: Agoda

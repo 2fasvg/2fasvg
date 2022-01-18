@@ -1,0 +1,4 @@
+- name: Bitly
+  url: bitly.com
+  2fa: null
+  tags: Bitly

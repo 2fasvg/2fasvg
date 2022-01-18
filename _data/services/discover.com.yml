@@ -1,0 +1,4 @@
+- name: Discover
+  url: discover.com
+  2fa: null
+  tags: Discover

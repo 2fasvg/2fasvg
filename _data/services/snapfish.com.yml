@@ -1,0 +1,4 @@
+- name: Snapfish
+  url: snapfish.com
+  2fa: null
+  tags: Snapfish

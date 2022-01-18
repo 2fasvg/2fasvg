@@ -1,0 +1,4 @@
+- name: Macys
+  url: macys.com
+  2fa: null
+  tags: Macys

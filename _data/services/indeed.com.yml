@@ -1,0 +1,4 @@
+- name: Indeed
+  url: indeed.com
+  2fa: null
+  tags: Indeed

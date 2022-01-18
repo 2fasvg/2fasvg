@@ -1,0 +1,4 @@
+- name: Avangate
+  url: avangate.com
+  2fa: null
+  tags: Avangate

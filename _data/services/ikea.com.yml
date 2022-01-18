@@ -1,0 +1,4 @@
+- name: Ikea
+  url: ikea.com
+  2fa: null
+  tags: Ikea

@@ -1,0 +1,4 @@
+- name: Blizzard
+  url: blizzard.com
+  2fa: null
+  tags: Blizzard

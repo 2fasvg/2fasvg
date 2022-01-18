@@ -1,0 +1,4 @@
+- name: Wechat
+  url: wechat.com
+  2fa: null
+  tags: Wechat

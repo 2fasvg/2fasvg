@@ -1,0 +1,4 @@
+- name: Ubuntu
+  url: ubuntu.com
+  2fa: null
+  tags: Ubuntu

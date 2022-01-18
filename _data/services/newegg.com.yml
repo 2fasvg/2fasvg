@@ -1,0 +1,4 @@
+- name: Newegg
+  url: newegg.com
+  2fa: null
+  tags: Newegg

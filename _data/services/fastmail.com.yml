@@ -1,0 +1,4 @@
+- name: Fastmail
+  url: fastmail.com
+  2fa: null
+  tags: Fastmail

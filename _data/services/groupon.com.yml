@@ -1,0 +1,4 @@
+- name: Groupon
+  url: groupon.com
+  2fa: null
+  tags: Groupon

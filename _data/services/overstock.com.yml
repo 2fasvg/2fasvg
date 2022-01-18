@@ -1,0 +1,4 @@
+- name: Overstock
+  url: overstock.com
+  2fa: null
+  tags: Overstock

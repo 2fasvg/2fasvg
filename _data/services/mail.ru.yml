@@ -1,0 +1,4 @@
+- name: Mail
+  url: mail.ru
+  2fa: null
+  tags: Mail

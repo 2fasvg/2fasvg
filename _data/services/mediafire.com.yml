@@ -1,0 +1,4 @@
+- name: Mediafire
+  url: mediafire.com
+  2fa: null
+  tags: Mediafire

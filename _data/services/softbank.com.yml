@@ -1,0 +1,4 @@
+- name: Softbank
+  url: softbank.com
+  2fa: null
+  tags: Softbank

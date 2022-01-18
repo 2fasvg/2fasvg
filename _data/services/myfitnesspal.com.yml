@@ -1,0 +1,4 @@
+- name: Myfitnesspal
+  url: myfitnesspal.com
+  2fa: null
+  tags: Myfitnesspal

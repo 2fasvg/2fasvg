@@ -1,0 +1,4 @@
+- name: Alipay
+  url: alipay.com
+  2fa: null
+  tags: Alipay

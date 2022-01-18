@@ -1,0 +1,4 @@
+- name: Booking
+  url: booking.com
+  2fa: null
+  tags: Booking

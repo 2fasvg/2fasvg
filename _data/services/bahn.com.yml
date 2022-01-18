@@ -1,0 +1,4 @@
+- name: Bahn
+  url: bahn.com
+  2fa: null
+  tags: Bahn

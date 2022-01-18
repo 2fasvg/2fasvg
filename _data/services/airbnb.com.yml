@@ -1,0 +1,4 @@
+- name: Airbnb
+  url: airbnb.com
+  2fa: null
+  tags: Airbnb

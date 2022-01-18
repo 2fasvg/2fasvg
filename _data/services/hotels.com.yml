@@ -1,0 +1,4 @@
+- name: Hotels
+  url: hotels.com
+  2fa: null
+  tags: Hotels

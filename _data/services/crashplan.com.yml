@@ -1,0 +1,4 @@
+- name: Crashplan
+  url: crashplan.com
+  2fa: null
+  tags: Crashplan

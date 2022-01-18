@@ -1,0 +1,4 @@
+- name: Lacie
+  url: lacie.com
+  2fa: null
+  tags: Lacie

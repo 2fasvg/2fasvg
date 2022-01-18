@@ -1,0 +1,4 @@
+- name: Etsy
+  url: etsy.com
+  2fa: null
+  tags: Etsy

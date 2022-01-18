@@ -1,0 +1,4 @@
+- name: Tesco
+  url: tesco.com
+  2fa: null
+  tags: Tesco

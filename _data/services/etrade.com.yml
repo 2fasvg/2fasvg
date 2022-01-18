@@ -1,0 +1,4 @@
+- name: Etrade
+  url: etrade.com
+  2fa: null
+  tags: Etrade

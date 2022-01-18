@@ -1,0 +1,4 @@
+- name: Fedex
+  url: fedex.com
+  2fa: null
+  tags: Fedex

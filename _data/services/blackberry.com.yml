@@ -1,0 +1,4 @@
+- name: Blackberry
+  url: blackberry.com
+  2fa: null
+  tags: Blackberry

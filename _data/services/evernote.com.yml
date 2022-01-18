@@ -1,0 +1,4 @@
+- name: Evernote
+  url: evernote.com
+  2fa: null
+  tags: Evernote

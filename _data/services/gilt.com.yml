@@ -1,0 +1,4 @@
+- name: Gilt
+  url: gilt.com
+  2fa: null
+  tags: Gilt

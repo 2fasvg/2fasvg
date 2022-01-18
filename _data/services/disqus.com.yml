@@ -1,0 +1,4 @@
+- name: Disqus
+  url: disqus.com
+  2fa: null
+  tags: Disqus

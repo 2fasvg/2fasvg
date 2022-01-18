@@ -1,0 +1,4 @@
+- name: Mixpanel
+  url: mixpanel.com
+  2fa: null
+  tags: Mixpanel

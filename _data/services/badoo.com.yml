@@ -1,0 +1,4 @@
+- name: Badoo
+  url: badoo.com
+  2fa: null
+  tags: Badoo

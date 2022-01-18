@@ -1,0 +1,4 @@
+- name: Lumosity
+  url: lumosity.com
+  2fa: null
+  tags: Lumosity

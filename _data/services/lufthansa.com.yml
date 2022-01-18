@@ -1,0 +1,4 @@
+- name: Lufthansa
+  url: lufthansa.com
+  2fa: null
+  tags: Lufthansa

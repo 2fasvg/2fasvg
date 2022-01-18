@@ -1,0 +1,4 @@
+- name: Baidu
+  url: baidu.com
+  2fa: null
+  tags: Baidu

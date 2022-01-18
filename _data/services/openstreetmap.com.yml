@@ -1,0 +1,4 @@
+- name: Openstreetmap
+  url: openstreetmap.com
+  2fa: null
+  tags: Openstreetmap

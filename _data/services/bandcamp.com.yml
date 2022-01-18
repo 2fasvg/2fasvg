@@ -1,0 +1,4 @@
+- name: Bandcamp
+  url: bandcamp.com
+  2fa: null
+  tags: Bandcamp

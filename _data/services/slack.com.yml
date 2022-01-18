@@ -1,0 +1,4 @@
+- name: Slack
+  url: slack.com
+  2fa: null
+  tags: Slack

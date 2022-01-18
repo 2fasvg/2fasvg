@@ -1,0 +1,4 @@
+- name: Easyjet
+  url: easyjet.com
+  2fa: null
+  tags: Easyjet

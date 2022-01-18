@@ -1,0 +1,4 @@
+- name: Zinio
+  url: zinio.com
+  2fa: null
+  tags: Zinio

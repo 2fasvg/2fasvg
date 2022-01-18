@@ -1,0 +1,4 @@
+- name: Stubhub
+  url: stubhub.com
+  2fa: null
+  tags: Stubhub

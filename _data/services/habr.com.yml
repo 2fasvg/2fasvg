@@ -1,0 +1,4 @@
+- name: Habr
+  url: habr.com
+  2fa: null
+  tags: Habr

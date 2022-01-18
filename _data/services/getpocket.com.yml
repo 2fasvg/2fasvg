@@ -1,0 +1,4 @@
+- name: Getpocket
+  url: getpocket.com
+  2fa: null
+  tags: Getpocket

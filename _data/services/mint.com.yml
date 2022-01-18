@@ -1,0 +1,4 @@
+- name: Mint
+  url: mint.com
+  2fa: null
+  tags: Mint

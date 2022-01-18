@@ -1,0 +1,4 @@
+- name: Ebates
+  url: ebates.com
+  2fa: null
+  tags: Ebates

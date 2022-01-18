@@ -1,0 +1,4 @@
+- name: Pluralsight
+  url: pluralsight.com
+  2fa: null
+  tags: Pluralsight

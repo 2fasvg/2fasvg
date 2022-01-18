@@ -1,0 +1,4 @@
+- name: Alfabank
+  url: alfabank.com
+  2fa: null
+  tags: Alfabank

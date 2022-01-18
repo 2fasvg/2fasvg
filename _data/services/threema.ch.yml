@@ -1,0 +1,4 @@
+- name: Threema
+  url: threema.ch
+  2fa: null
+  tags: Threema

@@ -1,0 +1,4 @@
+- name: Foursquare
+  url: foursquare.com
+  2fa: null
+  tags: Foursquare

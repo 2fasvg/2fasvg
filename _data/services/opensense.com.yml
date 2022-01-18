@@ -1,0 +1,4 @@
+- name: Opensense
+  url: opensense.com
+  2fa: null
+  tags: Opensense

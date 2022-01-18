@@ -1,0 +1,4 @@
+- name: Imgur
+  url: imgur.com
+  2fa: null
+  tags: Imgur

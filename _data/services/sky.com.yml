@@ -1,0 +1,4 @@
+- name: Sky
+  url: sky.com
+  2fa: null
+  tags: Sky

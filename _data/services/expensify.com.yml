@@ -1,0 +1,4 @@
+- name: Expensify
+  url: expensify.com
+  2fa: null
+  tags: Expensify

@@ -1,0 +1,4 @@
+- name: Travelocity
+  url: travelocity.com
+  2fa: null
+  tags: Travelocity

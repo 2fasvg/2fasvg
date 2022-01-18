@@ -1,0 +1,4 @@
+- name: Sbb
+  url: sbb.com
+  2fa: null
+  tags: Sbb

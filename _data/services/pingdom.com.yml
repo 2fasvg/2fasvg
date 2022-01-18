@@ -1,0 +1,4 @@
+- name: Pingdom
+  url: pingdom.com
+  2fa: null
+  tags: Pingdom

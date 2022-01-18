@@ -7,7 +7,8 @@ description: Description here
   <div class="px-4 py-5 my-5 text-center">
     <h1 class="display-5 fw-bold">2FA SVG Logos</h1>
     <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">Currently <strong class="text-dark fw-bold">865</strong> SVG logos of services that support Two-Factor Authentication available for download.</p>
+      {% assign count = site.data.0count[0] %}
+      <p class="lead mb-4">Currently <strong class="text-dark fw-bold">{{ count.total }}</strong> SVG logos of services that support Two-Factor Authentication available for download.</p>
     </div>
   </div>
         <ul class="row row-cols-2 row-cols-sm-4 row-cols-lg-5 row-cols-xl-8 list-unstyled list">{% for service in site.data.services %}{% for site in service[1] %}

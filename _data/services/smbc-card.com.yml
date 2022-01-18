@@ -1,0 +1,4 @@
+- name: Smbc-card
+  url: smbc-card.com
+  2fa: null
+  tags: Smbc-card

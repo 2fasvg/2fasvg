@@ -1,0 +1,4 @@
+- name: Opentable
+  url: opentable.com
+  2fa: null
+  tags: Opentable

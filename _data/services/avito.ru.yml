@@ -1,0 +1,4 @@
+- name: Avito
+  url: avito.ru
+  2fa: null
+  tags: Avito

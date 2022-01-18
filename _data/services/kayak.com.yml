@@ -1,0 +1,4 @@
+- name: Kayak
+  url: kayak.com
+  2fa: null
+  tags: Kayak

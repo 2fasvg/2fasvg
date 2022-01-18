@@ -1,0 +1,4 @@
+- name: Deezer
+  url: deezer.com
+  2fa: null
+  tags: Deezer

@@ -1,0 +1,4 @@
+- name: Target
+  url: target.com
+  2fa: null
+  tags: Target

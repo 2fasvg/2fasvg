@@ -1,0 +1,4 @@
+- name: Hostgator
+  url: hostgator.com
+  2fa: null
+  tags: Hostgator

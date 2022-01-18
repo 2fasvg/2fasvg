@@ -1,0 +1,4 @@
+- name: Pinterest
+  url: pinterest.com
+  2fa: null
+  tags: Pinterest

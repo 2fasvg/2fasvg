@@ -1,0 +1,4 @@
+- name: Emirates
+  url: emirates.com
+  2fa: null
+  tags: Emirates

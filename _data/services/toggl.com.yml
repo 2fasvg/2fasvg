@@ -1,0 +1,4 @@
+- name: Toggl
+  url: toggl.com
+  2fa: null
+  tags: Toggl

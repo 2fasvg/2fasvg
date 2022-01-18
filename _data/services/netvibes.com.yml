@@ -1,0 +1,4 @@
+- name: Netvibes
+  url: netvibes.com
+  2fa: null
+  tags: Netvibes

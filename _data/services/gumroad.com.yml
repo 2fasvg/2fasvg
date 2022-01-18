@@ -1,0 +1,4 @@
+- name: Gumroad
+  url: gumroad.com
+  2fa: null
+  tags: Gumroad

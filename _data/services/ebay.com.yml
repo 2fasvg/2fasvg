@@ -1,0 +1,4 @@
+- name: Ebay
+  url: ebay.com
+  2fa: null
+  tags: Ebay

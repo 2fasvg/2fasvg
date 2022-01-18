@@ -1,0 +1,4 @@
+- name: Lego
+  url: lego.com
+  2fa: null
+  tags: Lego

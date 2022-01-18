@@ -1,0 +1,4 @@
+- name: Strava
+  url: strava.com
+  2fa: null
+  tags: Strava

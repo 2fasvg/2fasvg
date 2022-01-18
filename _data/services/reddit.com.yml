@@ -1,0 +1,4 @@
+- name: Reddit
+  url: reddit.com
+  2fa: null
+  tags: Reddit

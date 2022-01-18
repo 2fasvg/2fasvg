@@ -1,0 +1,4 @@
+- name: Live
+  url: live.com
+  2fa: null
+  tags: Live

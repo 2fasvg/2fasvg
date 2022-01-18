@@ -1,0 +1,4 @@
+- name: Bankofamerica
+  url: bankofamerica.com
+  2fa: null
+  tags: Bankofamerica

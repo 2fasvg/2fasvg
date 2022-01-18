@@ -1,0 +1,4 @@
+- name: Ifixit
+  url: ifixit.com
+  2fa: null
+  tags: Ifixit

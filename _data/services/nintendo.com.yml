@@ -1,0 +1,4 @@
+- name: Nintendo
+  url: nintendo.com
+  2fa: null
+  tags: Nintendo

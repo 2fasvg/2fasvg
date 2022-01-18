@@ -1,0 +1,4 @@
+- name: Dailymotion
+  url: dailymotion.com
+  2fa: null
+  tags: Dailymotion

@@ -1,0 +1,4 @@
+- name: Netflix
+  url: netflix.com
+  2fa: null
+  tags: Netflix

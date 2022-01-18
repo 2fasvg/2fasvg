@@ -1,0 +1,4 @@
+- name: Bitbucket
+  url: bitbucket.com
+  2fa: null
+  tags: Bitbucket

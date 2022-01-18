@@ -1,0 +1,4 @@
+- name: Bol
+  url: bol.com
+  2fa: null
+  tags: Bol

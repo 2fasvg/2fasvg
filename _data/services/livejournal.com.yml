@@ -1,0 +1,4 @@
+- name: Livejournal
+  url: livejournal.com
+  2fa: null
+  tags: Livejournal

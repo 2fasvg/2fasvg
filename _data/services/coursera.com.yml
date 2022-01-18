@@ -1,0 +1,4 @@
+- name: Coursera
+  url: coursera.com
+  2fa: null
+  tags: Coursera

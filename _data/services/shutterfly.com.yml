@@ -1,0 +1,4 @@
+- name: Shutterfly
+  url: shutterfly.com
+  2fa: null
+  tags: Shutterfly

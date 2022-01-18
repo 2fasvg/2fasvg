@@ -1,0 +1,4 @@
+- name: Deutschepost
+  url: deutschepost.com
+  2fa: null
+  tags: Deutschepost

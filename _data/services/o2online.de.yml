@@ -1,0 +1,4 @@
+- name: O2online
+  url: o2online.de
+  2fa: null
+  tags: O2online

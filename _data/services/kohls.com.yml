@@ -1,0 +1,4 @@
+- name: Kohls
+  url: kohls.com
+  2fa: null
+  tags: Kohls

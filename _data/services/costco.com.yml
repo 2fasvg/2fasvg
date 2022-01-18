@@ -1,0 +1,4 @@
+- name: Costco
+  url: costco.com
+  2fa: null
+  tags: Costco

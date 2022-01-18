@@ -1,0 +1,4 @@
+- name: Ally
+  url: ally.com
+  2fa: null
+  tags: Ally

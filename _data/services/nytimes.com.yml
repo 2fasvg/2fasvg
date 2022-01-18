@@ -1,0 +1,4 @@
+- name: Nytimes
+  url: nytimes.com
+  2fa: null
+  tags: Nytimes

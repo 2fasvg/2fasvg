@@ -1,0 +1,4 @@
+- name: Ok
+  url: ok.ru
+  2fa: null
+  tags: Ok

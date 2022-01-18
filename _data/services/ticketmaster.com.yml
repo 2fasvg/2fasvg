@@ -1,0 +1,4 @@
+- name: Ticketmaster
+  url: ticketmaster.com
+  2fa: null
+  tags: Ticketmaster

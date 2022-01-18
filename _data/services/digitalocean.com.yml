@@ -1,0 +1,4 @@
+- name: Digitalocean
+  url: digitalocean.com
+  2fa: null
+  tags: Digitalocean
