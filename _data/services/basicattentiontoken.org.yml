@@ -1,0 +1,4 @@
+- name: Basicattentiontoken
+  url: basicattentiontoken.org
+  2fa: null
+  tags: Basicattentiontoken

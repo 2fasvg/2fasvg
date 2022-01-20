@@ -1,0 +1,4 @@
+- name: Afterpay
+  url: afterpay.com
+  2fa: null
+  tags: Afterpay

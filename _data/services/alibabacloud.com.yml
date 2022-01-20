@@ -1,0 +1,4 @@
+- name: Alibabacloud
+  url: alibabacloud.com
+  2fa: null
+  tags: Alibabacloud

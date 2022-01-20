@@ -1,0 +1,4 @@
+- name: Brave
+  url: brave.com
+  2fa: null
+  tags: Brave

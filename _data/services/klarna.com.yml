@@ -1,0 +1,4 @@
+- name: Klarna
+  url: klarna.com
+  2fa: null
+  tags: Klarna
