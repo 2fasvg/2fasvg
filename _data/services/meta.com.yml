@@ -1,0 +1,4 @@
+- name: Meta
+  url: meta.com
+  2fa: null
+  tags: Meta

@@ -1,0 +1,4 @@
+- name: Servicenow
+  url: servicenow.com
+  2fa: null
+  tags: Servicenow

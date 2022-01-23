@@ -1,0 +1,4 @@
+- name: Asustor
+  url: asustor.com
+  2fa: null
+  tags: Asustor
