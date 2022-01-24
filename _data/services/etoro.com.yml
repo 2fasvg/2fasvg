@@ -1,0 +1,4 @@
+- name: Etoro
+  url: etoro.com
+  2fa: null
+  tags: Etoro

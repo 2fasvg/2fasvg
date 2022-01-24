@@ -1,0 +1,4 @@
+- name: Hotbit
+  url: hotbit.io
+  2fa: null
+  tags: Hotbit
