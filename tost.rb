@@ -5,7 +5,7 @@ Dir.foreach("_data/services/") do |filename|
     file_no_extension = File.basename(filename, ".yml")
     file_title = file_no_extension.capitalize.split('.').first
     file_ser = file_no_extension.tr('.', '')
-    puts file_ser
+    # puts file_ser
     File.open("_services/#{file_no_extension}.html", "w") {|f| f.write(
 "---
 layout: main
