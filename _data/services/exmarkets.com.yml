@@ -1,0 +1,4 @@
+- name: Exmarkets
+  url: exmarkets.com
+  2fa: null
+  tags: Exmarkets
