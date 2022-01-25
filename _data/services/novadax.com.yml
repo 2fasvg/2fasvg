@@ -1,0 +1,4 @@
+- name: Novadax
+  url: novadax.com
+  2fa: null
+  tags: Novadax

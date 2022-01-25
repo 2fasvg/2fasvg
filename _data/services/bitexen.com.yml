@@ -1,0 +1,4 @@
+- name: Bitexen
+  url: bitexen.com
+  2fa: null
+  tags: Bitexen

@@ -1,0 +1,4 @@
+- name: Coinsbit
+  url: coinsbit.in
+  2fa: null
+  tags: Coinsbit

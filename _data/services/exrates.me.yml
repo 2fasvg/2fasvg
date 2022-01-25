@@ -1,0 +1,4 @@
+- name: Exrates
+  url: exrates.me
+  2fa: null
+  tags: Exrates
