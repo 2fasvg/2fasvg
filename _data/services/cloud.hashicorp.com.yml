@@ -1,0 +1,4 @@
+- name: Cloud
+  url: cloud.hashicorp.com
+  2fa: null
+  tags: Cloud

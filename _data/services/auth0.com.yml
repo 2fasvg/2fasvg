@@ -1,0 +1,4 @@
+- name: Auth0
+  url: auth0.com
+  2fa: null
+  tags: Auth0

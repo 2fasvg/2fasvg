@@ -1,0 +1,4 @@
+- name: Kickex
+  url: kickex.com
+  2fa: null
+  tags: Kickex
