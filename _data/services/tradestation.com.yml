@@ -1,0 +1,4 @@
+- name: Tradestation
+  url: tradestation.com
+  2fa: null
+  tags: Tradestation

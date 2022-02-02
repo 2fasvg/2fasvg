@@ -1,0 +1,4 @@
+- name: Webull
+  url: webull.com
+  2fa: null
+  tags: Webull

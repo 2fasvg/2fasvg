@@ -1,0 +1,4 @@
+- name: Userify
+  url: userify.com
+  2fa: null
+  tags: Userify
